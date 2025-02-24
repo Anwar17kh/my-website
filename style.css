@@ -36,7 +36,7 @@ footer {
     padding: 10px;
 }
 body {
-    background-image: url('images/background.png');
+    background-image: url('images/background.png.png');
     background-size: cover; /* Menyesuaikan gambar agar penuh */
     background-position: center; /* Pusatkan gambar */
     background-repeat: no-repeat; /* Jangan ulangi gambar */
